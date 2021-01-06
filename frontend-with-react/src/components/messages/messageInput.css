@@ -1,0 +1,24 @@
+/* .input-container{
+    display: flex;
+}
+
+.input-field{
+    padding: 20px;
+    width: 900px;
+}
+
+.send-btn{
+  width: 200px;
+  padding: 20px;
+  padding-left: 10px;
+} */
+
+.btn{
+    width: 100%;
+} 
+
+.form-inline .form-control {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+}

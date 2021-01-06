@@ -1,0 +1,19 @@
+/* .users-container{
+     border : 2px solid black;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 25px;
+}
+
+.current-user{
+    align-items: center;
+    margin-top: 20px;
+}
+hr{
+     border-top: 3px solid black; 
+    margin : 6px 0px ;
+}  */
+
+hr{
+    background-color:white;
+}

@@ -1,0 +1,53 @@
+
+.main-container{
+    border : 2px solid black;
+    /* box-sizing: border-box; */
+    /* width: 1200px;
+    height: 90vh;
+    margin: auto;
+    display: flex; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 3px 3px 5px 6px #ccc;
+
+}
+
+.users-container{
+    /* border : 2px solid green; */
+    /* height: 100%;
+    width: 100%; */
+    
+}
+
+.chat-container{
+    /* border : 2px solid red; */
+    
+    /* width: 100%; */
+    
+}
+
+.info-container{
+   /* border : 2px solid purple; */
+   padding: 0px;
+   margin : 0px;
+   /* height: 60px; */
+   height: 50px;
+}
+
+.messages-container{
+    /* border : 2px solid aqua; */
+    /* height: 500px; */
+    padding: 0px;
+   margin : 0px;
+   min-height: 500px;
+   height: 700px;
+   overflow: auto;
+}
+
+.input-container{
+    /* border : 2px solid blue; */
+    /* height: 70px; */
+    border-top: 1px solid black;
+    padding: 0px;
+   margin : 0px;
+
+}

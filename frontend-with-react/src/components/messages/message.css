@@ -1,0 +1,42 @@
+.message-container{
+    display:flex;
+    font-size: 20px;
+    font-family: helvetica;
+    padding: 0 5px;
+    margin-top: 3px;
+    
+    /* background-color: blue; */
+    justify-content: flex-start;
+}
+
+.message-box{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding :10px;
+    max-width: 80%;
+    background-color: white;
+    display: inline-block;
+}
+
+.user{
+
+    display: flex;
+    align-items: center;
+    font-family: Helvetica;
+    color: #828282;
+    letter-spacing: 0.3px;
+    padding: 4px 2px;
+    margin: 0 0 2px;
+}
+
+.text-message{
+    width: 100%;
+    letter-spacing: 0;
+    padding: 0;
+    font-size: 1.1em;
+    margin: 0 0 2px;
+    word-wrap: break-word;
+}
+.jusifyEnd{
+    justify-content: flex-end;
+}
